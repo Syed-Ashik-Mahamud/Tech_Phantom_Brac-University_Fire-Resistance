@@ -70,7 +70,7 @@ void loop()   //This will run indefinitely till the program is terminated
 
     Serial.println("AT+CMGS=\"+8801762259976\""); // Replace x with mobile number
 
-    Serial.println("FIRE IN THE HOUSE");         // The SMS text you want to send
+    Serial.println("Fire Detected!!! at Uttara,sector 6 House_97,road-20");         // The SMS text you want to send
 
     Serial.println((char)26);
 
